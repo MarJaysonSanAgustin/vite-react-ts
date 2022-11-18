@@ -1,0 +1,7 @@
+{
+  "preset": "ts-jest",
+  "testEnvironment": "jest-environment-jsdom",
+  "transform": {
+    "^.+\\.(css|png|jpg|svg)$": "jest-transform-stub"
+  }
+}
